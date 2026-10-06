@@ -1,0 +1,1 @@
+its a React Hook that stores a value that remian between renders without causing a re-render when the value changes, and can only be changed by .current, can refrence DOM elements.

@@ -1,0 +1,1 @@
+A closure is a  function that remembers the variables from the scope where it was created, The variable stay alive as long as the function does, each call to the outer function creates a new, separate set of remembered variables.
