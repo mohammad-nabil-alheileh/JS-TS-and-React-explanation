@@ -1,0 +1,1 @@
+useMemo is a React Hook used to cache the result of a calculation between renders, it only cahnge when dependencies change.
